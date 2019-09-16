@@ -5,3 +5,5 @@
 			       algunas letras y luego tabulador.
 -git commit ------------> Enviar ficheros al area de git. Para añadir mensaje presionamos "i"."Esc" para salir de 
 			  añadir mensaje. Luego escribimos ":wq" para guardar los cambios y salir del editor.
+
+-.gitignore ------------->Todo lo que coloquemos en este fichero git lo va a ignorar (carpeta/, fichero.xxx)
